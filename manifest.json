@@ -1,0 +1,12 @@
+{
+  "name": "Session Manager",
+  "description": "Manage session and bookmarks",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+      "default_popup": "index.html"
+  },
+  "permissions": [
+      "bookmarks"
+  ]
+}
